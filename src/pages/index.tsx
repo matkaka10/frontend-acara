@@ -1,5 +1,9 @@
 import PageHead from "@/components/commons/PageHead";
 import { Button } from "@nextui-org/react";
+import { useState } from "react";
+
+
+const [isKlik, setKlik] = useState;
 
 export default function Home() {
   return (
@@ -9,7 +13,9 @@ export default function Home() {
       <Button color="secondary">Hello</Button>
       <Button color="primary">Wok</Button>
       <Button color="primary" size="sm">tertiary</Button>
+      
       </div>
+      
     </main>
   );
 }
