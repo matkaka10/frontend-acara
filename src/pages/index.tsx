@@ -8,7 +8,7 @@ export default function Home() {
       <div className="flex">
       <Button color="secondary">Hello</Button>
       <Button color="primary">Wok</Button>
-      <Button color="tertiary" size="sm">tertiary</Button>
+      <Button color="primary" size="sm">tertiary</Button>
       </div>
     </main>
   );
