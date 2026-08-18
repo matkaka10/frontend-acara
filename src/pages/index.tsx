@@ -8,8 +8,7 @@ export default function Home() {
       <PageHead title="Hello"/>
       <div className="flex">
       <Button color="secondary">Hello</Button>
-      <Button color="primary">Wok</Button>
-      <Button color="primary" size="sm">tertiary</Button>
+
       
       </div>
       
