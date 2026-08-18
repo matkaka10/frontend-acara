@@ -1,9 +1,14 @@
 import PageHead from "@/components/commons/PageHead";
 import { Button } from "@nextui-org/react";
+import axios from "axios";
 import { useState } from "react";
 
 
 const [isKlik, setKlik] = useState;
+
+const diklik = axios  {
+
+}
 
 export default function Home() {
   return (
