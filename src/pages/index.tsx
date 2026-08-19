@@ -18,7 +18,10 @@ export default function Home() {
               asd
               <aside>da</aside>
               <th>Jurusan</th>
-          
+          <aside><aside>asd
+            asd
+            asd
+            <aside><data value="a"></data></aside></aside></aside>
            </tr>
            <address><address>ad</address></address>
           </form>
