@@ -14,7 +14,7 @@ export default function Home() {
               <th>ID</th>
               <th>Nama</th>
               <th>NIM</th>
-              <th>Jurusan</th>
+              
             </tr>
           </form>
         </div>
