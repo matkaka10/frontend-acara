@@ -34,7 +34,15 @@ export default function Home() {
             d
           </aside>
         </div>
-      <Button color="secondary">Hello</Button>
+      <Button color="secondary">Hello
+        asd
+        asd
+        asd
+        <aside>das
+          <data value="sd
+          asd"></data>
+        </aside>
+      </Button>
       </div>
       
     </main>
