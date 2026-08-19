@@ -13,58 +13,12 @@ export default function Home() {
             <tr className="border">
               <th>ID</th>
               <th>Nama</th>
-              asd
-              asd
-              asd
-              asd
-              asd
               <th>NIM</th>
-              
-            </tr>asd
-            asd
-            asd
-            asd
-            asd
+              <th>Jurusan</th>
+            </tr>
           </form>
-          asd
-          asd
-          asd
-          asd
-          <aside>das
-            d
-          </aside>
         </div>
-      <Button color="secondary">Hello
-        asd
-        asd
-        asd
-        <aside>das
-          <data value="sd
-          asd"></data>
-          <address><address><address></address></address></address>
-        </aside>
-      </Button>
-      asd
-      asd
-      asd
-      <address>asd
-        asd
-        asd
-        asd
-        <aside>das
-          das
-          <data value="sda
-          sd
-          asd
-          asd
-          a"></data>
-        </aside>
-      </address>
-      <address>asd
-        asd
-        asd
-
-      </address>
+      <Button color="secondary">Hello</Button>
       </div>
       
     </main>
