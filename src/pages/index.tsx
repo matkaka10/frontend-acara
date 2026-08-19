@@ -20,6 +20,7 @@ export default function Home() {
               <th>Jurusan</th>
           
            </tr>
+           <address><address>ad</address></address>
           </form>
         </div>
       <Button color="secondary">Hello</Button>
