@@ -20,9 +20,7 @@ export default function Home() {
               <th>Jurusan</th>
               <th>Jurusan</th>
               <th>Jurusan</th>
-              <th>Jurusan</th>
-              <th>Jurusan</th>
-              
+           
           </form>
         </div>
       <Button color="secondary">Hello</Button>
