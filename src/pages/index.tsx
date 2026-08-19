@@ -20,7 +20,11 @@ export default function Home() {
               asd
               <th>NIM</th>
               
-            </tr>
+            </tr>asd
+            asd
+            asd
+            asd
+            asd
           </form>
         </div>
       <Button color="secondary">Hello</Button>
