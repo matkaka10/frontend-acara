@@ -15,6 +15,20 @@ export default function Home() {
               <th>Nama</th>
               <th>NIM</th>
               <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
+              <th>Jurusan</th>
             </tr>
           </form>
         </div>
