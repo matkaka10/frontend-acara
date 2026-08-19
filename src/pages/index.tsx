@@ -9,10 +9,6 @@ export default function Home() {
       <PageHead title="Hello"/>
       <div className="">
         <div>
-          <form action="" className="border-1">
-            <tr className="border">
-              <th>ID</th>
-              <th>Nama</th>
               <th>NIM</th>
               
             </tr>
