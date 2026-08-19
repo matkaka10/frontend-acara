@@ -22,14 +22,7 @@ export default function Home() {
               <th>Jurusan</th>
               <th>Jurusan</th>
               <th>Jurusan</th>
-              <th>Jurusan</th>
-              <th>Jurusan</th>
-              <th>Jurusan</th>
-              <th>Jurusan</th>
-              <th>Jurusan</th>
-              <th>Jurusan</th>
-              <th>Jurusan</th>
-            </tr>
+              
           </form>
         </div>
       <Button color="secondary">Hello</Button>
