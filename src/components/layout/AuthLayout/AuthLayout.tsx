@@ -6,6 +6,11 @@ interface PropTypes {
     children: ReactNode
 }
 
+interface PropTypes {
+    title?: string,
+    children: ReactNode
+}
+
 
 
 export const Authlayout = (props: PropTypes) => {
