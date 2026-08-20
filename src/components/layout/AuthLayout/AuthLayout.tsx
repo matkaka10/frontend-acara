@@ -10,6 +10,10 @@ interface PropTypes {
     title?: string,
     children: ReactNode
 }
+interface PropTypes {
+    title?: string,
+    children: ReactNode
+}
 
 
 
