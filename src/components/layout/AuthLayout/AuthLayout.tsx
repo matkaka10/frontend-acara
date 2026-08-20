@@ -1,16 +1,21 @@
 import PageHead from "@/components/commons/PageHead"
+import { ReactNode } from "react"
 
 interface PropTypes {
-    title?: string
+    title?: string,
+    children: ReactNode
 }
 
 
 
 const Authlayout = (props: PropTypes) => {
-    const {title} = props
+    const {title, children} = props
     return(
         <>
         <PageHead title={title}/>
+        <section className="max-w-screen-3xl 3xl:container p-6">
+            {children}
+        </section>
         </>
     )
 }
