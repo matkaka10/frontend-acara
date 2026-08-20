@@ -6,25 +6,6 @@ interface PropTypes {
     children: ReactNode
 }
 
-interface PropTypes {
-    title?: string,
-    children: ReactNode
-}
-interface PropTypes {
-    title?: string,
-    children: ReactNode
-}
-interface PropTypes {
-    title?: string,
-    children: ReactNode
-}
-interface PropTypes {
-    title?: string,
-    children: ReactNode
-}
-
-
-
 export const Authlayout = (props: PropTypes) => {
     const {title, children} = props
     return(
