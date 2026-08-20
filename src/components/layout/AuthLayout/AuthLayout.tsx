@@ -8,7 +8,7 @@ interface PropTypes {
 
 
 
-const Authlayout = (props: PropTypes) => {
+export const Authlayout = (props: PropTypes) => {
     const {title, children} = props
     return(
         <>
