@@ -16,6 +16,7 @@ const Register = ( ) => {
                 />src/components/views/Register/Register.tsx
                 <Image 
                     src="/images/ilustrations/login.svg"
+                    src/components/views/Register/Register.tsx
                     alt="login"
                     width={1024}
                     height={1024}
