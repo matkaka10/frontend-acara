@@ -10,6 +10,10 @@ const Register = ( ) => {
                     width={180}
                     height={180}
                 />
+                    alt="logo"
+                    width={180}
+                    height={180}
+                />
                 <Image 
                     src="/images/ilustrations/login.svg"
                     alt="login"
