@@ -24,6 +24,7 @@ const Register = ( ) => {
                     src/components/views/Register/Register.tsx
                     src/components/views/Register/Register.tsx
                     src/components/views/Register/Register.tsx
+                    src/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsx
                 />
             </div>
         </div>
