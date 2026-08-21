@@ -21,7 +21,8 @@ const Register = ( ) => {
             </div>
             <Card>
                 <CardBody>
-                    
+                    <h1>Selamat datang</h1>
+                    <h2>Daftar atau Masuk</h2>
                 </CardBody>
             </Card>
         </div>
