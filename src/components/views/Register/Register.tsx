@@ -1,3 +1,4 @@
+import { Card, CardBody } from "@nextui-org/react"
 import Image from "next/image"
 
 const Register = ( ) => {
@@ -18,16 +19,14 @@ const Register = ( ) => {
                     height={1024}
                 />
             </div>
+            <Card>
+                <CardBody>
+                    
+                </CardBody>
+            </Card>
         </div>
     )
 }
-inindasda aksdaksjdnas
-src/components/views/Register/Register.tsx
-src/components/views/Register/Register.tsx
-src/components/views/Register/Register.tsx
-src/components/views/Register/Register.tsx
-src/components/views/Register/Register.tsx
-src/components/views/Register/Register.tsx
-src/components/views/Register/Register.tsx
+
 
 export default Register
