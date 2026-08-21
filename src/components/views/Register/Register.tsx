@@ -33,6 +33,7 @@ const Register = () => {
     src/components/views/Register/Register.tsx
     src/components/views/Register/Register.tsx
     src/components/views/Register/Register.tsx
+    src/components/views/Register/Register.tsx
   )
 }
 
