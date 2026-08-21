@@ -21,22 +21,6 @@ const Register = ( ) => {
         </div>
     )
 }
-
-import React from 'react'
-
-const Register = () => {
-  return (
-    <div>Register</div>
-    src/components/views/Register/Register.tsx
-    src/components/views/Register/Register.tsx
-    src/components/views/Register/Register.tsx
-    src/components/views/Register/Register.tsx
-    src/components/views/Register/Register.tsx
-    src/components/views/Register/Register.tsx
-    src/components/views/Register/Register.tsx
-  )
-}
-
-export default Register
+inindasda aksdaksjdnas
 
 export default Register
