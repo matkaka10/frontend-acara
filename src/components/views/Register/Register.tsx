@@ -10,25 +10,26 @@ const Register = ( ) => {
                     width={180}
                     height={180}
                 />
-                    alt="logo"
-                    width={180}
-                    height={180}
-                />src/components/views/Register/Register.tsx
+                
                 <Image 
                     src="/images/ilustrations/login.svg"
-                    src/components/views/Register/Register.tsx
-                    alt="login"src/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsx
+                    alt="login"
                     width={1024}
                     height={1024}
-
-                    src/components/views/Register/Register.tsx
-                    src/components/views/Register/Register.tsx
-                    src/components/views/Register/Register.tsx
-                    src/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsx
                 />
             </div>
         </div>
     )
 }
+
+import React from 'react'
+
+const Register = () => {
+  return (
+    <div>Register</div>
+  )
+}
+
+export default Register
 
 export default Register
