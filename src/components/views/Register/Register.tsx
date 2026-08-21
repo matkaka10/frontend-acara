@@ -20,6 +20,10 @@ const Register = ( ) => {
                     alt="login"src/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsxsrc/components/views/Register/Register.tsx
                     width={1024}
                     height={1024}
+
+                    src/components/views/Register/Register.tsx
+                    src/components/views/Register/Register.tsx
+                    src/components/views/Register/Register.tsx
                 />
             </div>
         </div>
