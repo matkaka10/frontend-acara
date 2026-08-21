@@ -28,6 +28,10 @@ const Register = () => {
   return (
     <div>Register</div>
     src/components/views/Register/Register.tsx
+    src/components/views/Register/Register.tsx
+    src/components/views/Register/Register.tsx
+    src/components/views/Register/Register.tsx
+    src/components/views/Register/Register.tsx
   )
 }
 
