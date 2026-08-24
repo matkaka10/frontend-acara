@@ -4,7 +4,7 @@ import Image from "next/image"
 const Register = ( ) => {
     return(
         <div className="flex w-full items-center justify-center flex-row gap-20">
-            <div className="flex w-1/3 flex-col items-center justify-center gap-10">
+            <d className="flex w-1/3 flex-col items-center justify-center gap-10">
                 <Image 
                     src="/images/general/logo.svg"
                     alt="logo"
@@ -54,13 +54,7 @@ const Register = ( ) => {
 
 
 
-            </div>
-            <Card>
-                <CardBody>
-                    <h1>Selamat datang</h1>
-                    <h2>Daftar atau Masuk</h2>
-                    <input type="text" name="FullName" required/>
-                </CardBody>
+            </d
             </Card>
         </div>
     )
