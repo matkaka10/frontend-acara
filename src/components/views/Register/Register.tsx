@@ -50,6 +50,20 @@ const Register = ( ) => {
                     <input type="text" name="FullName" required/>
                 </CardBody>
             </Card>
+            <Card>
+                <CardBody>
+                    <h1>Selamat datang</h1>
+                    <h2>Daftar atau Masuk</h2>
+                    <input type="text" name="FullName" required/>
+                </CardBody>
+            </Card>
+            <Card>
+                <CardBody>
+                    <h1>Selamat datang</h1>
+                    <h2>Daftar atau Masuk</h2>
+                    <input type="text" name="FullName" required/>
+                </CardBody>
+            </Card>
         </div>
     )
 }
